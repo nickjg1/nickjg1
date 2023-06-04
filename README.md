@@ -3,7 +3,7 @@
  
 <h2 align="center">I'm a First Year Computer Science Student at McMaster University</h2>
 
-## Here's what I'm currently working on: [Linear Lab](https://nickjg1.github.io/linear-lab/)
+## Here's what I'm currently working on: [Ansible HomeServer](https://github.com/nickjg1/homeserver-ansible/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
