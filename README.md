@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Nick</h1>
 
  
-<h2 align="center">I'm a Second Year Computer Science Student at McMaster University</h2>
+<h2 align="center">I'm a Computer Science Student at McMaster University</h2>
 
 ## Here's what I'm currently working on: [Ansible HomeServer](https://github.com/nickjg1/homeserver-ansible/)
 
